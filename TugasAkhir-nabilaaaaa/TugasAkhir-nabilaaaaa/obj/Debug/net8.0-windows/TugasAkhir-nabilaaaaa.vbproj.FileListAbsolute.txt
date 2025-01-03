@@ -1,0 +1,17 @@
+C:\Users\Acer\Documents\VISUAL BASIC\TugasAkhir-nabilaaaaa\TugasAkhir-nabilaaaaa\obj\Debug\net8.0-windows\TugasAkhir_nabilaaaaa.Form1.resources
+C:\Users\Acer\Documents\VISUAL BASIC\TugasAkhir-nabilaaaaa\TugasAkhir-nabilaaaaa\obj\Debug\net8.0-windows\TugasAkhir_nabilaaaaa.Resources.resources
+C:\Users\Acer\Documents\VISUAL BASIC\TugasAkhir-nabilaaaaa\TugasAkhir-nabilaaaaa\obj\Debug\net8.0-windows\TugasAkhir-nabilaaaaa.vbproj.GenerateResource.cache
+C:\Users\Acer\Documents\VISUAL BASIC\TugasAkhir-nabilaaaaa\TugasAkhir-nabilaaaaa\obj\Debug\net8.0-windows\TugasAkhir-nabilaaaaa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Documents\VISUAL BASIC\TugasAkhir-nabilaaaaa\TugasAkhir-nabilaaaaa\obj\Debug\net8.0-windows\TugasAkhir-nabilaaaaa.AssemblyInfoInputs.cache
+C:\Users\Acer\Documents\VISUAL BASIC\TugasAkhir-nabilaaaaa\TugasAkhir-nabilaaaaa\obj\Debug\net8.0-windows\TugasAkhir-nabilaaaaa.AssemblyInfo.vb
+C:\Users\Acer\Documents\VISUAL BASIC\TugasAkhir-nabilaaaaa\TugasAkhir-nabilaaaaa\obj\Debug\net8.0-windows\TugasAkhir-nabilaaaaa.vbproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\VISUAL BASIC\TugasAkhir-nabilaaaaa\TugasAkhir-nabilaaaaa\bin\Debug\net8.0-windows\TugasAkhir-nabilaaaaa.exe
+C:\Users\Acer\Documents\VISUAL BASIC\TugasAkhir-nabilaaaaa\TugasAkhir-nabilaaaaa\bin\Debug\net8.0-windows\TugasAkhir-nabilaaaaa.deps.json
+C:\Users\Acer\Documents\VISUAL BASIC\TugasAkhir-nabilaaaaa\TugasAkhir-nabilaaaaa\bin\Debug\net8.0-windows\TugasAkhir-nabilaaaaa.runtimeconfig.json
+C:\Users\Acer\Documents\VISUAL BASIC\TugasAkhir-nabilaaaaa\TugasAkhir-nabilaaaaa\bin\Debug\net8.0-windows\TugasAkhir-nabilaaaaa.dll
+C:\Users\Acer\Documents\VISUAL BASIC\TugasAkhir-nabilaaaaa\TugasAkhir-nabilaaaaa\bin\Debug\net8.0-windows\TugasAkhir-nabilaaaaa.pdb
+C:\Users\Acer\Documents\VISUAL BASIC\TugasAkhir-nabilaaaaa\TugasAkhir-nabilaaaaa\obj\Debug\net8.0-windows\TugasAkhir-nabilaaaaa.dll
+C:\Users\Acer\Documents\VISUAL BASIC\TugasAkhir-nabilaaaaa\TugasAkhir-nabilaaaaa\obj\Debug\net8.0-windows\refint\TugasAkhir-nabilaaaaa.dll
+C:\Users\Acer\Documents\VISUAL BASIC\TugasAkhir-nabilaaaaa\TugasAkhir-nabilaaaaa\obj\Debug\net8.0-windows\TugasAkhir-nabilaaaaa.pdb
+C:\Users\Acer\Documents\VISUAL BASIC\TugasAkhir-nabilaaaaa\TugasAkhir-nabilaaaaa\obj\Debug\net8.0-windows\TugasAkhir-nabilaaaaa.genruntimeconfig.cache
+C:\Users\Acer\Documents\VISUAL BASIC\TugasAkhir-nabilaaaaa\TugasAkhir-nabilaaaaa\obj\Debug\net8.0-windows\ref\TugasAkhir-nabilaaaaa.dll
